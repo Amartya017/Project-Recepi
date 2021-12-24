@@ -6,8 +6,10 @@
 .button.button.homepage{
     background-color: rgba(230, 13, 13, 0.657);
     color: burlywood;
+    font-size: large;
 }
 .button{
     background-color: green;
     color: rgb(243, 182, 91);
+    font-size: large;
 }
