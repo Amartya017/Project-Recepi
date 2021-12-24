@@ -1,0 +1,13 @@
+*{
+    background-color: lightcoral;
+    color: teal;
+    font-size: medium;
+}
+.button{
+    background-color: rgba(230, 13, 13, 0.657);
+    color: burlywood;
+}
+.button.homepage{
+    background-color: green;
+    color: rgb(243, 182, 91);
+}
